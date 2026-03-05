@@ -1,0 +1,14 @@
+D:\Route Academy\Back End\C#\Assignment06\bin\Debug\net8.0\Assignment06.exe
+D:\Route Academy\Back End\C#\Assignment06\bin\Debug\net8.0\Assignment06.deps.json
+D:\Route Academy\Back End\C#\Assignment06\bin\Debug\net8.0\Assignment06.runtimeconfig.json
+D:\Route Academy\Back End\C#\Assignment06\bin\Debug\net8.0\Assignment06.dll
+D:\Route Academy\Back End\C#\Assignment06\bin\Debug\net8.0\Assignment06.pdb
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.AssemblyInfoInputs.cache
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.AssemblyInfo.cs
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.csproj.CoreCompileInputs.cache
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.dll
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\refint\Assignment06.dll
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.pdb
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\Assignment06.genruntimeconfig.cache
+D:\Route Academy\Back End\C#\Assignment06\obj\Debug\net8.0\ref\Assignment06.dll
