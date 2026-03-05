@@ -1,0 +1,14 @@
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\bin\Debug\net8.0\C#OOP Assignment01.exe
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\bin\Debug\net8.0\C#OOP Assignment01.deps.json
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\bin\Debug\net8.0\C#OOP Assignment01.runtimeconfig.json
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\bin\Debug\net8.0\C#OOP Assignment01.dll
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\bin\Debug\net8.0\C#OOP Assignment01.pdb
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.AssemblyInfoInputs.cache
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.AssemblyInfo.cs
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.csproj.CoreCompileInputs.cache
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.dll
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\refint\C#OOP Assignment01.dll
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.pdb
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\C#OOP Assignment01.genruntimeconfig.cache
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\C#OOP Assignment01\obj\Debug\net8.0\ref\C#OOP Assignment01.dll

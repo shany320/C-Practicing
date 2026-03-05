@@ -1,0 +1,14 @@
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\bin\Debug\net8.0\Assignment02OOP.exe
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\bin\Debug\net8.0\Assignment02OOP.deps.json
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\bin\Debug\net8.0\Assignment02OOP.runtimeconfig.json
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\bin\Debug\net8.0\Assignment02OOP.dll
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\bin\Debug\net8.0\Assignment02OOP.pdb
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.AssemblyInfoInputs.cache
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.AssemblyInfo.cs
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.csproj.CoreCompileInputs.cache
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.dll
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\refint\Assignment02OOP.dll
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.pdb
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\Assignment02OOP.genruntimeconfig.cache
+D:\Route academy\Web development\Back end\C#\Advanced C#\Session 01\Project\Assignment02OOP\obj\Debug\net8.0\ref\Assignment02OOP.dll
